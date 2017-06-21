@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658615277369",
+    "firebase_url": "https://nilmadhav-vidhyalaya.firebaseio.com",
+    "project_id": "nilmadhav-vidhyalaya",
+    "storage_bucket": "nilmadhav-vidhyalaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658615277369:android:51d5ba45c30def26",
+        "android_client_info": {
+          "package_name": "com.developers.nilmahadevvidhyalaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658615277369-s2c3u8udf2nm3jo6nauopvmtpj0ojpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpz3zXrU1ft2ZTJQRc4Rm3j-opTOTpjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
